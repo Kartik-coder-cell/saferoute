@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# IDE files
+.idea/
+.vscode/
+
+# Android build files
+android/.gradle/
+android/app/build/
+android/build/
+
+# Capacitor
+android/local.properties
+
+# Logs
+*.log
+
+# APK / AAB
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
